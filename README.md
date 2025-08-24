@@ -26,7 +26,8 @@ Key metrics included:
 
 ## 🛠️ Tools Used  
 - **Power BI** for data visualization  
-- **Google Form Survey Data** as input source  
+- **Google Form Survey Data** as input source
+- **Google Sheet : connecting responses from the survey to the sheet for easy acess to the data, cleaning and readying for  visualization 
 
 ## 🚀 How to Use  
 1. Clone the repository:  
