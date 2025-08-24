@@ -1,6 +1,6 @@
 # Tech Christian Survey Insights Dashboard  
 
-![Dashboard Screenshot](Screenshot.jpg)  
+![Dashboard Screenshot](https://raw.githubusercontent.com/OkaforChukwuka/Tech-Christian-Survey-Insights-Dashboard/refs/heads/main/Screenshot%202025-08-23%20193656.jpg)  
 
 This repository contains a Power BI dashboard built from survey data on Christian youths in technology.  
 The goal is to understand their demographics, skill levels, tech career paths, and how faith influences professional choices.  
